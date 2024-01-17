@@ -1,0 +1,8 @@
+[user]
+	name = BenKalender
+	email = atayanil01@gmail.com
+[safe]
+	directory = C:/Users/ataya/source/training/fun-at-work
+	
+[credential "https://BenKalender@github.com"]
+	provider = github
